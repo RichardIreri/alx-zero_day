@@ -1,1 +1,1 @@
-My first readme
+This directory contains important git files
